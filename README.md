@@ -40,8 +40,7 @@
    ```
 
 ## Project URL
-- GitHub Repository: [https://github.com/cursider808/task-tracker-cli](https://github.com/cursider808/task-tracker-cli)
-```
+https://github.com/cursider808/task-tracker-cli
 
 ### Что делать после сохранения файла:
 Сохраните изменения в файле и выполните три команды в терминале, чтобы отправить обновление на GitHub:
