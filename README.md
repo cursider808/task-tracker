@@ -52,5 +52,5 @@ git push
 ```
 ```markdown
 ## Project URL
-[https://github.com/cursider808/task-tracker](https://github.com/cursider808/task-tracker-cli)
+[https://github.com/cursider808/task-tracker]https://roadmap.sh/projects/task-tracker
 ```
