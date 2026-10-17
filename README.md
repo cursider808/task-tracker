@@ -50,3 +50,7 @@ git add README.md
 git commit -m "Add project URL to README"
 git push
 ```
+```markdown
+## Project URL
+[https://github.com/cursider808/task-tracker-cli](https://github.com/cursider808/task-tracker-cli)
+```
