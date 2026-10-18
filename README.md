@@ -38,11 +38,8 @@
    ```bash
    python task_tracker.py delete 1
    ```
-
 ```bash
-git add README.md
-git commit -m "Add project URL to README"
-git push
+
 ```
 ```markdown
 ## Project URL
