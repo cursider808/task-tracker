@@ -39,12 +39,6 @@
    python task_tracker.py delete 1
    ```
 
-## Project URL
-https://github.com/cursider808/task-tracker-cli
-
-### Что делать после сохранения файла:
-Сохраните изменения в файле и выполните три команды в терминале, чтобы отправить обновление на GitHub:
-
 ```bash
 git add README.md
 git commit -m "Add project URL to README"
